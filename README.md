@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avijit Ghosh</h1>
 <h3 align="center">Experienced Frontend developer with 4+ years of experience in Angular, React etc.</h3>
 
-<img align="right" alt="Coding" width="300" src="https://github.com/avijitghosh700/avijitghosh700/blob/master/cat_typing.gif">
+
 
 - 🔭 I’m currently working on **Angular and React projects**
 
@@ -10,6 +10,8 @@
 - 📫 How to reach me **gavijit622@gmail.com**
 
 - ⚡ Fun fact **I love traveling, listening spiritual music**
+
+
 
 <h3 align="left">Connect with me:</h3>
 
@@ -25,6 +27,8 @@
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+
 
 
 <h3 align="left"> Web Development and Cloud: </h3>
@@ -46,11 +50,14 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+
+
 <h3 align="left"> Testing: </h3>
 
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+
 
 
 <h3 align="left">Statistics:</h3>
