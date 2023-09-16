@@ -2,6 +2,7 @@
 <h3 align="center">Experienced Frontend developer with 4+ years of experience in Angular, React etc.</h3>
 
 
+
 <img align="right" alt="Coding" width="300" src="https://github.com/avijitghosh700/avijitghosh700/blob/master/cat_typing.gif">
 
 - 🔭 I’m currently working on **Angular and React projects**
