@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gavijit622@gmail.com**
 
-- ⚡ Fun fact **I love traveling, listening spiritual music**
+- ⚡ Fun fact **I love travelling and listening to spiritual music**
 
 
 
