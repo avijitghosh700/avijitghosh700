@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on **Angular and React projects**
+- 🔭 I’m currently working on **Next and React projects**
 
-- 🌱 I’m currently learning **Node, PostgreSQL, MongoDB**
+- 🌱 I’m currently learning **Node** and practicing **DSA**
 
 - 📫 How to reach me **gavijit622@gmail.com**
 
